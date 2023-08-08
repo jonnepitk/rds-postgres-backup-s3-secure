@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.18.3
 LABEL maintainer="Emanuel Jöbstl <emanuel.joebstl@gmail.com"
 
 RUN apk update
